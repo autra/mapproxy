@@ -48,7 +48,7 @@ Installation
 
 On a Debian or Ubuntu system, you need to install the following packages::
 
-  sudo apt-get install python-pil python-yaml python-proj
+  sudo apt-get install python-pil python-yaml python-pyproj
 
 To get all optional packages::
 
